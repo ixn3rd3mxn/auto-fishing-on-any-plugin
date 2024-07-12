@@ -1,4 +1,4 @@
-this is auto fishing on fishing plugin , no detect , have little bug click
+this is auto fishing on fishing plugin , no detect , have little bug click , work all version game :)
 
 work on
 Python 3.12.2
